@@ -1,5 +1,8 @@
 #include<stdio.h>
 
-int main(void){
-    printf("hello world\n");
+int main(int argc, char *argv[]){
+
+    printf("Hello git World\n");
+
+	return 0;
 }
